@@ -31,7 +31,8 @@ st.sidebar.header("Settings")
 ticker = st.sidebar.text_input("Stock Ticker", value="AAPL").upper()
 days = st.sidebar.slider("Days of News", min_value=1, max_value=30, value=7)
 
-API_URL = "http://localhost:8000"
+import os
+API_URL = os.getenv("API_URL", "http://localhost:8000")
 
 if st.sidebar.button("🔍 Analyze", type="primary"):
     
