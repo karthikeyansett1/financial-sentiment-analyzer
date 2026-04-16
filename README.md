@@ -212,4 +212,4 @@ If I were to extend this further I would also look at fine-tuning FinBERT on a f
 
 **Karthikeyan Setti** — M.S. Data Science, Indiana University Bloomington
 
-[LinkedIn](https://linkedin.com/in/karthikeyansetti) · [GitHub](https://github.com/karthikeyansett1) · [Live Demo](https://huggingface.co/spaces/karthikeyansett1/financial-sentiment-analyzer)
+[LinkedIn](https://www.linkedin.com/in/karthikeyan-setti-ks/) · [GitHub](https://github.com/karthikeyansett1) · [Live Demo](https://huggingface.co/spaces/karthikeyansett1/financial-sentiment-analyzer)
